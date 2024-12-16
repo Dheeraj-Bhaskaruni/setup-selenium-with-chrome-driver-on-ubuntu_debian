@@ -37,8 +37,8 @@ DISTRIB_DESCRIPTION="Ubuntu 22.04.3 LTS"
 
 ## Step 1: update the all packages, If necessary
 ```
-# apt update
-# apt upgrade
+apt update
+apt upgrade
 ```
 
 ## Step 2: Download 'google-chrome' stable package
